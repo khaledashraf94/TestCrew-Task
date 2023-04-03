@@ -1,5 +1,6 @@
 package test;
 
+
 import main.HomePage;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -14,6 +15,7 @@ import static main.HomePage.driver;
 
 
 public class HomeTest {
+
 
     HomePage homeObj;
 
